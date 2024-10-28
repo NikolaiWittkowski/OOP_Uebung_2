@@ -4,7 +4,7 @@ import java.io.FileWriter;
 public class AnwendersystemModel {
 	
 	public String getUeberschrift() {
-		return "Hallo";
+		return "Hallo Nick ich habe dein repo überfallen muhahahahah";
 	}
 	
 	public void writeTo(String str) {
